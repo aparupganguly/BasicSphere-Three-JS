@@ -20,11 +20,11 @@ This starter project includes:
 
 To start using this project, follow these steps:
 
+````
 1. **Install dependencies**:
    ```bash
    npm install
    ```
-````
 
 2. **Run the development server**:
    ```bash
