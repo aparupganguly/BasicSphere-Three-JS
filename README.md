@@ -21,9 +21,8 @@ This starter project includes:
 To start using this project, follow these steps:
 
 ````
-1. **Install dependencies**:
-   ```bash
-   npm install
+ ```bash
+   git clone [Link](https://github.com/aparupganguly/BasicSphere-Three-JS.git)
    ```
 
 2. **Run the development server**:
