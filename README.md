@@ -22,7 +22,7 @@ To start using this project, follow these steps:
 
 ````
  ```bash
-   git clone [Link](https://github.com/aparupganguly/BasicSphere-Three-JS.git)
+   git clone https://github.com/aparupganguly/BasicSphere-Three-JS.git
    ```
 
 2. **Run the development server**:
@@ -34,7 +34,7 @@ To start using this project, follow these steps:
 ## 🚀 Features
 
 - **Customizable**: Easily modify the geometry, materials, and lighting to fit your project needs.
-- **Responsive**: Works well on various screen sizes, ensuring a consistent experience across devices.
+- **Responsive**: Works well on various screen sizes, ensuring a consistent device experience.
 - **Modular**: Clean, well-organized code structure for easy expansion and integration with other projects.
 
 ## ✨ Live Demo
