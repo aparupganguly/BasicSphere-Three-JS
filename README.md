@@ -20,21 +20,18 @@ This starter project includes:
 
 To start using this project, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/threejs-starter-project.git
-   ```
-````
+1. **Install dependencies**:
 
-2. **Install dependencies**:
    ```bash
-   npm install
+     git clone https://github.com/your-username/threejs-starter-project.git
+
    ```
-3. **Run the development server**:
+
+2. **Run the development server**:
    ```bash
    npm start
    ```
-4. **Open your browser**: Navigate to `http://localhost:3000` to see the scene in action.
+3. **Open your browser**: Navigate to `http://localhost:3000` to see the scene in action.
 
 ## 🚀 Features
 
@@ -53,3 +50,4 @@ This project was created by [Aparup Ganguly](https://aparupganguly.com). Visit m
 ```
 
 ```
+````
