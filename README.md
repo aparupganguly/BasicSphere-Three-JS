@@ -48,8 +48,6 @@ Check out the live demo of this project [here](#).
 
 This project was created by [Aparup Ganguly](https://aparupganguly.com). Visit my [portfolio](https://aparupganguly.com) to see more of my work.
 
-## 📄 License
-
 ```
 
 ```
