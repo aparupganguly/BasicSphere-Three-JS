@@ -21,11 +21,10 @@ This starter project includes:
 To start using this project, follow these steps:
 
 1. **Install dependencies**:
-
    ```bash
-     git clone https://github.com/your-username/threejs-starter-project.git
-
+   npm install
    ```
+````
 
 2. **Run the development server**:
    ```bash
@@ -50,4 +49,3 @@ This project was created by [Aparup Ganguly](https://aparupganguly.com). Visit m
 ```
 
 ```
-````
