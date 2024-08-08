@@ -1,6 +1,6 @@
 Sure! Here’s the updated `README.md` file without the license section:
 
-```markdown
+````markdown
 # THREE.js Starter Project
 
 Welcome to the THREE.js Starter Project! This is a basic setup designed to get you up and running with THREE.js, a powerful and flexible 3D library for creating interactive 3D experiences directly in your browser.
@@ -24,6 +24,8 @@ To start using this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/threejs-starter-project.git
    ```
+````
+
 2. **Install dependencies**:
    ```bash
    npm install
@@ -47,4 +49,7 @@ Check out the live demo of this project [here](#).
 ## 👨‍💻 Author
 
 This project was created by [Aparup Ganguly](https://aparupganguly.com). Visit my [portfolio](https://aparupganguly.com) to see more of my work.
+
+```
+
 ```
